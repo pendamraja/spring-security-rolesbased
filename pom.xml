@@ -11,7 +11,7 @@
 	<groupId>com.springsecurity</groupId>
 	<artifactId>rolesbased</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>rolesbased</name>
+	<name>spring-security-roles</name>
 	<description>spring security roles based</description>
 
 	<properties>
